@@ -1,0 +1,33 @@
+/* Hoja paara los estilos de la pagina */
+.variants-table {
+    border-collapse: collapse;
+    width: 100%;
+
+ 
+  }
+  
+  .variants-table th,
+  .variants-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    width: 00px; 
+    height: 40px; 
+    white-space: nowrap; 
+  }
+  
+  .variants-table th {
+    background-color: #e5f3f4;
+  }
+  
+  input[type="text"] {
+    width: 40%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+.p{
+   text-align: center; 
+}
