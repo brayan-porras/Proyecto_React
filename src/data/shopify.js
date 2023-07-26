@@ -1,3 +1,6 @@
+//esta se agrego para visualizar los datos cuando este en desarrollo de la aplicacion.
+//para hacer uso de los datos mientras se desarrollo habilitar esta linea  setSongs(data.products); en use songs;
+
 export const data = {
     "products": [
         {

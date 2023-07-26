@@ -39,8 +39,8 @@
  }
 
   useEffect(() =>{
-  setSongs(data.products);// se creo para visualizar la data mientras este en desarrollo
-//getSongs();
+ // setSongs(data.products);// se creo para visualizar la data mientras este en desarrollo
+getSongs();// se utiliza para ver los datos con el servidor 
 },[])
 
 //retorna el objeto con el arreglo de canciones ´songs´
